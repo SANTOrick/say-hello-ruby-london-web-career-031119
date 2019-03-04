@@ -1,5 +1,5 @@
 def say_hello(name)
   puts "Hello Kent Beck!"
-else 
+else
   puts "Hello Programmer!"
 end
